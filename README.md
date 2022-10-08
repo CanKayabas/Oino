@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CanKayabas/Oino">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="http://erebos.cf/img/ereb0s.png/" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">OINO</h3>
